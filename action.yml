@@ -1,5 +1,5 @@
 name: "Kane CLI Run"
-description: "Run plain-English browser tests with Kane CLI. Inline objective or committed test.md files. Pass/fail verdict, sealed evidence, PR comment."
+description: "Run plain-English browser tests in CI with Kane CLI: pass/fail verdict, evidence pack and PR comment."
 author: "TestMu AI"
 branding:
   icon: "check-circle"
